@@ -30,7 +30,7 @@ const letterLines = [
   "I love you more than words could ever say.",
   "",
   "Forever yours,",
-  "Your person 💖"
+  "Mickey 💖"
 ];
 
 const LetterPage = () => {
